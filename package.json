@@ -1,6 +1,6 @@
 {
   "name": "git-revision-webpack-plugin",
-  "version": "2.2.0",
+  "version": "2.3.1",
   "description": "Simple webpack plugin that generates VERSION and COMMITHASH files during build",
   "main": "lib/index.js",
   "scripts": {
@@ -17,8 +17,11 @@
     "url": "https://github.com/pirelenito/git-revision-webpack-plugin.git"
   },
   "keywords": [
-    "webpack",
-    "plugin"
+    "git",
+    "git-describe",
+    "plugin",
+    "version",
+    "webpack"
   ],
   "author": "Paulo Ragonha",
   "license": "MIT",
